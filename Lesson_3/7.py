@@ -19,5 +19,4 @@ for i in range(len(a)):
     elif a[i] < min_num2:
         min_num2 = a[i]
 
-
 print("Два наименьших элемента:", min_num, min_num2)
